@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The frontispiece of the chronological automaton or self-moving ephemeris of ye. celestial motions, &amp;c. Representing ye phaenomena at noon March 30: 1691 / invented and made by Samuel Watson ...</title>
+            <author>Watson, Samuel, of Coventry, watch-maker.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10271</idno>
+            <idno type="OCLC"> 80925375</idno>
+            <idno type="STC">Wing W1100B</idno>
+            <idno type="STC">ESTC R224475</idno>
+            <idno type="EEBO-CITATION">80925375</idno>
+            <idno type="OCLC">ocm 80925375</idno>
+            <idno type="VID">192173</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10271)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192173)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2901:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The frontispiece of the chronological automaton or self-moving ephemeris of ye. celestial motions, &amp;c. Representing ye phaenomena at noon March 30: 1691 / invented and made by Samuel Watson ...</title>
+                  <author>Watson, Samuel, of Coventry, watch-maker.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed at the theater. And sold by Ra. Simpson ... London. And at Coventry by the bookselers and author.,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>[1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ephemerides --  Early works to 1800.</term>
+               <term>Astronomical instruments --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:192173:1" rendition="simple:additions"/>
+            <head>The Frontispeice of the Chronological Automaton or Self-moving <hi>EPHEMERIS</hi> of y<hi rend="sup">e</hi> Celestial Motions, <hi>&amp;c</hi> Representing y<hi rend="sup">e</hi> phaenomena at Noon March 30: 1691 <hi>Jnvented and made by SAMUEL WATSON of Coventry Watch-Maker</hi>
+            </head>
+            <p>
+               <figure>
+                  <figDesc>depiction of a chronological automaton, a self-moving ephemeris of the celestial movements</figDesc>
+                  <figure>
+                     <figDesc>dial on the automaton</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>dial on the automaton</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>dial on the automaton</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>dial on the automaton</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>dial on the automaton</figDesc>
+                  </figure>
+               </figure>
+            </p>
+            <div type="part">
+               <head>A Brief Explication of the parts of the first table</head>
+               <p>
+                  <label>a</label>The center with a little Ball Repreſenting y<hi rend="sup">e</hi> globe of y<hi rend="sup">e</hi> Earth.</p>
+               <p>
+                  <label>bb &amp;c</label> The orbs of the Respective planets haueing their Epicycles afixt in them</p>
+               <p>
+                  <label>cc &amp;c</label> Shaded lines Repreſenting the Epicycles of y<hi rend="sup">e</hi>. Several planets</p>
+               <p>
+                  <label>dd &amp;c</label> The centers of the Epicycles Shewing their Middle Motion ☿ ♀ ☉ ♂ ♃ ♄ Shew what planets the Asteriſks to which they are affixt Repreſent, and y<hi rend="sup">e</hi> Aſteriſks them<g ref="char:EOLhyphen"/>ſelv's Shew the apparant place of their reſpective planets in the Zodiake by a line from the Center to the Aſteriſk continued to the ſigne and degree of the Zodiake, as ♄. 28<hi rend="sup">D</hi>. of ♏. ♃. 20<hi rend="sup">D</hi>. of ♈ ♂ 28<hi rend="sup">D</hi>. of ♒. the ☉ neere 20<hi rend="sup">D</hi> of. ♈. ♀. 3<hi rend="sup">D</hi> of ♓. ☿. 26<hi rend="sup">D</hi>. of ♓. and the Moone. 6<hi rend="sup">D</hi>. of ♍ when they are direct Swift or Slow Stationary or Retrograde may be Known by obſerueing in what part of the Epicycle the planet is or more Mechanically by Seeing the motions of the worke.</p>
+               <p>The Apogaeons perigaeons and aspects and the Elongations of ♀ and ☿ &amp;c. are ſuffitiently evident to the intelligent Spectator by obſerving in what part of their Epicycle they are in and how far diſtant from each other as ♄ aproaching neere his perigaeon ♃ in his Apo<g ref="char:EOLhyphen"/>gaeon and ♀ drawing towards her Elongation &amp;c.</p>
+               <p>
+                  <label>ee</label> The 12 Celeſtiall Sign's as computed from the first Star of Aries with the most Remarkable fixt Stars in and about the Zodiak haueing a proper Motion of about one degree in a 100 years &amp;c.</p>
+               <p>
+                  <label>fff &amp;c</label> The Signes of the Zodiak with y<hi rend="sup">e</hi> Num<g ref="char:EOLhyphen"/>ber of their degrees rekoned from the Vernall Equinox</p>
+               <p>
+                  <label>gg &amp;c</label> The 24 houres of y<hi rend="sup">e</hi> Natural Day Ser<g ref="char:EOLhyphen"/>ving for y<hi rend="sup">e</hi> obſervation of the horary diſtance betweene planets of different Longitude, or planets or other Stars &amp;c</p>
+               <p>
+                  <label>hh &amp;c</label> The degrees of tereſtiall Longitude adapted to the Longitude of London Serving for the Knowledg of y<hi rend="sup">e</hi> South<g ref="char:EOLhyphen"/>ing &amp;c of any of the planets or other Star's to that or any place of Known Longitude &amp;c</p>
+               <p>
+                  <label>ii</label> The Lamina on the Eaſtern and Weſtern ſides of the table with the Characters of the 12 ſigns of the Eccliptick Fitted for the Latitude of London Shewing the length and Shortneſs of the Day, And the exact Riſeing and Setting of the Signes of the Zodiack with the Stars and planets in them, each Signe then Riſeing when it comes ouer againſt its Correſpondent Signe in the Eaſtern Lamina and ſetting when it comes to the like on the other ſide, And the arch aboue or below theſe Shew (and with the Circle of houres) the Space of tyme which they make aboue or below the Horizon</p>
+            </div>
+            <div type="part">
+               <head>The Explication of the: 2<hi rend="sup">d</hi>: Table</head>
+               <p>
+                  <label>a</label> The center Repreſenting the Earth</p>
+               <p>
+                  <label>kk &amp;c</label> The orbe of the Moon</p>
+               <p>
+                  <label>ll &amp;c</label> The center of her Epicycle Shew<g ref="char:EOLhyphen"/>ing her middle Motion</p>
+               <p>
+                  <label>mm &amp;c</label> The Moon in her Epicycle Shew<g ref="char:EOLhyphen"/>ing her apparent place in y<hi rend="sup">e</hi> Zodiak her Apogaeon and perigaeon haue<g ref="char:EOLhyphen"/>ing the Hemiſphere next the Sun alwayes Illuminated Serving to Shew her Various phaſes &amp;c</p>
+               <p>
+                  <note place="margin">nn &amp;c.</note>Two Circles one Repreſenting the Eccliptick the other the Orbit of the moon with figures incloſed to ſhew the degrees of her Latitude
+<list>
+                     <item>
+                        <note place="margin">N☊</note>The North Node</item>
+                     <item>
+                        <note place="margin">S☋</note>The South Node</item>
+                  </list> haueing their proper Motion</p>
+               <p>
+                  <label>oo &amp;c</label> The Sun placed here the better to ſhew his Aſpects with y<hi rend="sup">e</hi> Moon and Ecclipſes;</p>
+               <p>The Ecclipſes, their quantitie, Dura<g ref="char:EOLhyphen"/>tion and the parts of the earth which they are Viſible in &amp;c. are to be knowne by conſidering the Latitude of the Moon in her conjunction and oppoſition with the Sun and the Longitude and Latitude of the Reſpective places; the Rules for which are here for brevity Sake omited;</p>
+               <p>
+                  <label>pp &amp;c</label> Remarkable Stars in their pro<g ref="char:EOLhyphen"/>per Longitudes which are more Remote from the Eccliptick then thoſe in the former table;</p>
+               <p>The other parts of this table are Sufficiently Explaind in the Former</p>
+            </div>
+            <div type="part">
+               <head>The 3 Table</head>
+               <p>
+                  <label>qq &amp;c</label> The innermoſt Circle by figures from 1. to 28. tells the Cycle of the Sun; The ſecond ſhews the Dominical Letter; the next ſhews the months, and the 4 Circles Surrounding it, tells the day of the Month, to be acounted on the inermoſt the first yeare after Biſsextile; and So Succeſively to the outermoſt; which Serues for leape yeare</p>
+            </div>
+            <div type="part">
+               <head>The 4<hi rend="sup">th</hi> Table</head>
+               <p>
+                  <label>rr</label> The innermoſt Circle ſhews the Indiction; the middle the gol<g ref="char:EOLhyphen"/>den Number; the outermoſt the Epact:</p>
+            </div>
+            <div type="part">
+               <head>The Middle Table</head>
+               <p>S.M.T.W.T.F.S. are the firſt Letters of the days of the weeke with their primary planet and in the Circle encompaſing them is ſhewed the houres of the Day computed from 12 to 12:</p>
+               <p>
+                  <label>SS</label> A hole for a Key whereby the whole Machine as depending on one Axis) may be moued for any Number of Days months or yeares either backward or forward preſenting to the eye the foremen<g ref="char:EOLhyphen"/>tioned phaenomenae happening in that ſpace of tyme, and then being returned to the preſent yeare Month Day and houre Keeps the tyme for the future, So that upon occaſion of any neglect in drawing up the weight which moues the long pendulum (which neede be done but once in Eight Days) the whole is ſet right;</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>OXFORD Printed at the</hi> THEATER. And ſold by Ra. Simpson Bookſel. in S<hi rend="sup">t</hi>. Paul's Church-yard <hi>London.</hi> And at <hi>Coventry</hi> by the Bookſel. And Author.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
